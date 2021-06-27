@@ -59,7 +59,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/nicollecnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollecnunes" height="15" width="25" /></a>
-<a href="mailto:nicollecanuton@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="nicollecanuton" height="15" width="25" /></a>
+<a href="mailto:nicollecanuton@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="nicollecanuton" height="10" width="13" /></a>
 <a href="https://www.facebook.com/sparkarhub/portfolios/ig/nicollecnunes/" target="blank"><img align="center" src="https://reports.exodus-privacy.eu.org/en/reports/76641/icon/" alt="nicollecanuton" height="25" width="25" /></a>
 </p>
 
