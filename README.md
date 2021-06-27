@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolle</h1>
 <h3 align="center">A passionate FrontEnd developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicollecnunes" alt="nicollecnunes" /></a> </p>
 
 - 📫 How to reach me **nicollecanuton@gmail.com**
 
