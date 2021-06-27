@@ -53,7 +53,7 @@
 </p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&theme=radical" alt="nicollecnunes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" /></p>
 
 <h3 align="left">Connect with me:</h3>
 
