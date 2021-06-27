@@ -15,12 +15,12 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<!---<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 <h3 align="left">Databases (currently learning):</h3>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+--->
 
 <h3 align="left">Design Tools:</h3>
 <p align="left">
@@ -52,17 +52,18 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-<a href="https://linkedin.com/in/nicollecnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollecnunes" height="30" width="40" /></a>
-<a href="mailto:nicollecanuton@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="nicollecanuton" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sparkarhub/portfolios/ig/nicollecnunes/" target="blank"><img align="center" src="https://reports.exodus-privacy.eu.org/en/reports/76641/icon/" alt="nicollecanuton" height="50" width="50" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&show_icons=true&locale=en&layout=compact" alt="nicollecnunes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicollecnunes&show_icons=true&locale=en" alt="nicollecnunes" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/nicollecnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollecnunes" height="20" width="30" /></a>
+<a href="mailto:nicollecanuton@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="nicollecanuton" height="20" width="30" /></a>
+<a href="https://www.facebook.com/sparkarhub/portfolios/ig/nicollecnunes/" target="blank"><img align="center" src="https://reports.exodus-privacy.eu.org/en/reports/76641/icon/" alt="nicollecanuton" height="25" width="25" /></a>
+</p>
+
 
 
