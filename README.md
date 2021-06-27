@@ -51,9 +51,9 @@
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&show_icons=true&locale=en&layout=compact" alt="nicollecnunes" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 
