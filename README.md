@@ -20,7 +20,7 @@
 <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-<h3 align="left">Databases (currently learning):</h3>
+<h3 align="left">Databases:</h3>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <h3 align="left">Design Tools:</h3>
