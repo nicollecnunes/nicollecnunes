@@ -57,7 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" /></p>
 
-<a href="https://drive.google.com/drive/folders/1KAKcAZE1E7V_N2jjoYotk9-B5NEj_Vkp?usp=sharing"><h3 align="left">Certificates here</h3></a>
+<a href="https://github.com/nicollecnunes/certificates"><h3 align="left">Certificates here</h3></a>
 
 <h3 align="left">Connect with me:</h3>
 
