@@ -56,9 +56,14 @@
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>-->
-<br><br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollecnunes&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" /></p>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollecnunes&langs_count=8&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" />
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicollecnunes&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" />-->
+</p>
+  </div>
+<!--<br></br><br></br><br></br><br></br>-->
 
 <a href="https://github.com/nicollecnunes/certificates"><h3 align="left">Certificates here</h3></a>
 
