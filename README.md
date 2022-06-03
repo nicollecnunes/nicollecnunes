@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/nicollecnunes/nicollecnunes/blob/main/Hi.gif" alt="hi gif" width="30px">, I'm Nicolle</h1>
+<h1 align="center">Nicolle</h1>
 
 <h3 align="left">FrontEnd ❤️:</h3>
 <p align="left">
