@@ -1,6 +1,8 @@
 <h1 align="center">Nicolle</h1>
 
-<h3 align="left">FrontEnd ❤️:</h3>
+
+<div class="row">
+<h3 align="left">FrontEnd</h3>
 <p align="left">
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -11,7 +13,7 @@
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-<h3 align="left">Backend:</h3>
+<h3 align="left">Backend</h3>
 <p align="left">
    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -19,6 +21,8 @@
    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
+
+</div>
 
 <h3 align="left">Others || Learning:</h3>
 <p align="left">
@@ -55,7 +59,6 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicollecnunes&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicollecnunes" />-->
 </p>
   </div>
-<!--<br></br><br></br><br></br><br></br>-->
 
 <a href="https://github.com/nicollecnunes/certificates"><h3 align="left">Certificates here</h3></a>
 
