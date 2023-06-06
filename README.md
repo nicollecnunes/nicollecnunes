@@ -1,18 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=690137&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=690137&center=true&vCenter=true&width=1200&lines=Hey+there!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicollecnunes&show_icons=true&count_private=true&hide_border=true&title_color=690137&icon_color=690137&text_color=690137&bg_color=FFFFF" alt="Nicolle's github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollecnunes&layout=compact&hide_border=true&title_color=690137&text_color=690137&bg_color=FFFFF&count_private=true&langs_count=8" />
-</div>
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicollecnunes&bg_color=690137color=ffffff&line=ffffff&point=690137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<hr>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicollecnunes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center"> 
 <div align="left" width="41%" height="200px">
@@ -36,6 +23,22 @@
    <img alt="Clojure" src="https://img.shields.io/badge/Clojure-FFF.svg?style=for-the-badge&logo=Clojure&logoColor=690137"/>
 </div>
 </div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=690137&center=true&vCenter=true&width=1200&lines=Hey+there!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicollecnunes&show_icons=true&count_private=true&hide_border=true&title_color=690137&icon_color=690137&text_color=690137&bg_color=FFFFF" alt="Nicolle's github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollecnunes&layout=compact&hide_border=true&title_color=690137&text_color=690137&bg_color=FFFFF&count_private=true&langs_count=8" />
+</div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicollecnunes&bg_color=690137color=ffffff&line=ffffff&point=690137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nicollecnunes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 
 <!--<a href="https://github.com/nicollecnunes/certificates"><h3 align="left">Certificates here</h3></a>
