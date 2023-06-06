@@ -2,28 +2,25 @@
 
 
 <div align="center"> 
-<div align="left" width="41%" height="200px">
-   <h3 align="left">FrontEnd</h3>
+<!--<div align="left" width="41%" height="200px">
+   <h3 align="left">FrontEnd</h3>!-->
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-FFF.svg?style=for-the-badge&logo=javascript&logoColor=690137"/>
    <img alt="HTML5" src="https://img.shields.io/badge/html5-FFF.svg?style=for-the-badge&logo=html5&logoColor=690137"/>
    <img alt="CSS3" src="https://img.shields.io/badge/css3-FFF.svg?style=for-the-badge&logo=css3&logoColor=690137"/>
-   <br>
    <img alt="TypeSript" src="https://img.shields.io/badge/typescript-FFF.svg?style=for-the-badge&logo=typescript&logoColor=690137"/>
    <img alt="React" src="https://img.shields.io/badge/react-FFF.svg?style=for-the-badge&logo=react&logoColor=690137"/>
-</div>
+<!--</div>
 
 <div align="left" width="41%" height="200px">
-   <h3 align="left">Backend</h3>
+   <h3 align="left">Backend</h3>!-->
    <img alt="Python" src="https://img.shields.io/badge/python-FFF.svg?style=for-the-badge&logo=python&logoColor=690137"/>
    <img alt="Flask" src="https://img.shields.io/badge/flask-FFF.svg?style=for-the-badge&logo=flask&logoColor=690137"/>
-   <br>
    <img alt="C#" src="https://img.shields.io/badge/c%23-FFF.svg?style=for-the-badge&logo=c-sharp&logoColor=690137"/>
    <img alt= "dotNET" src="https://img.shields.io/badge/.NET-FFF?style=for-the-badge&logo=.net&logoColor=690137"/>
-   <br>
    <img alt="Clojure" src="https://img.shields.io/badge/Clojure-FFF.svg?style=for-the-badge&logo=Clojure&logoColor=690137"/>
+<!--</div>!-->
 </div>
-</div>
-
+<br>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=690137&center=true&vCenter=true&width=1200&lines=Hey+there!;Welcome+to+my+GitHub)](https://git.io/typing-svg)!-->
 <div align="center">  
@@ -32,7 +29,7 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicollecnunes&bg_color=690137color=ffffff&line=ffffff&point=690137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicollecnunes&bg_color=FFFFFcolor=690137&line=690137&point=690137&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nicollecnunes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
